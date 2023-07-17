@@ -33,8 +33,8 @@ img {
     position: absolute;
     width: 100px;
     height: 100px;
-    top: 150px;
-    left: 150px;
+    inset-block-start: 150px;
+    inset-inline-start: 150px;
     fill: none;
     stroke: #f4d146;
     stroke-width: 50px;
