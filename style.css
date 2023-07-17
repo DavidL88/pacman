@@ -4,6 +4,7 @@ body {
     place-items: center;
     background: #2c2e2e;
     font-family: 'VT323', monospace;
+    min-height: 100vh;
 }
 
 h1 {
